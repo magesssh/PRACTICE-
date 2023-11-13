@@ -5,6 +5,7 @@ n=int(input("no of jobs : "));
 m=int(input("no of machines:"));
 s=int(input("enter a random seed: "));
 
+
 # look at what waquar told
 
 #for a in range(1,n+1):
