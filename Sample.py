@@ -20,7 +20,7 @@ s=int(input("enter a random seed: "));
         
        
 def generate_job_shop(i,j,k):
-    print(i,end=' ')
+    print(i , end=' ')
     print(j)
     for a in range(1,i+1):
         for l in range(10):
@@ -33,6 +33,11 @@ def generate_job_shop(i,j,k):
 
 
 generate_job_shop(n,m,s)
+
+
+# lalala la aaal aa
+ef=45
+print(ef)
 
 
 
